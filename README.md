@@ -1,2 +1,2 @@
-# TCC
-codigo feito para o trabalho de conclusão de curso
+# C-digoTcc
+Guardar todas as  versoes do codigo do tcc
